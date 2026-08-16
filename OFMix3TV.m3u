@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/KjjqnRH/Picsart-23-06-30-21-35-20-283.png" ,Sheemaroo Bollywood
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://styles.redditmedia.com/t5_2qhqk/styles/communityIcon_ixophh05g9x01.jpg?format=pjpg&s=aa0e33c1d9bd899eb8bc8eb3e8066b727ba95723" ,Bollywood Classic HD
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
